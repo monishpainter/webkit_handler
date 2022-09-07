@@ -1,0 +1,6 @@
+framework module Pods_WebViewHandle {
+  umbrella header "Pods-WebViewHandle-umbrella.h"
+
+  export *
+  module * { export * }
+}
